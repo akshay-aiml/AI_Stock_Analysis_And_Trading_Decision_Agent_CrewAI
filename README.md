@@ -25,7 +25,7 @@ Tech Stack:-
 - dotenv
 
   Project Structure:-
-
+```
   stock_ai_project/
 │
 ├── agents/
@@ -43,6 +43,8 @@ Tech Stack:-
 ├── main.py
 ├── .env
 └── README.md
+
+```
 
 Agents:-
 
